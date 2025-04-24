@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "f557e032-092b-409e-846b-f33138a07a7d",
-          "name": "F4 Old",
+          "name": "F4 Old Parent App",
           "slug": "f557e032-092b-409e-846b-f33138a07a7d",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-04-24T07:50:27.856Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-04-24T07:50:27.856Z",
+          "updatedAt": "2025-04-24T07:51:32.499Z",
           "editingVersion": {
             "id": "3113319a-8ff2-43e9-8c5e-1235b709ce24",
             "name": "v1",
