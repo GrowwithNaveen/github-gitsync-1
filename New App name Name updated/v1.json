@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "4af8a09b-f635-496c-8493-32aa186fd8c6",
-          "name": "New App name",
+          "name": "New App name Name updated",
           "slug": "4af8a09b-f635-496c-8493-32aa186fd8c6",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-04-24T07:56:06.754Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-04-24T07:56:06.754Z",
+          "updatedAt": "2025-04-24T07:56:54.687Z",
           "editingVersion": {
             "id": "97d1a452-5ab2-43b0-8fa7-ba16cee04504",
             "name": "v1",
