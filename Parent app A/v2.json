@@ -312,7 +312,7 @@
               },
               "validation": {},
               "createdAt": "2025-05-19T07:46:38.266Z",
-              "updatedAt": "2025-05-19T07:46:41.098Z",
+              "updatedAt": "2025-05-20T11:47:07.371Z",
               "layouts": [
                 {
                   "id": "2d0d49b5-8d41-4734-b14a-658fe25c21e6",
@@ -740,5 +740,5 @@
       }
     }
   ],
-  "tooljet_version": "3.5.36-ee-lts"
+  "tooljet_version": "3.5.39-ee-lts"
 }
