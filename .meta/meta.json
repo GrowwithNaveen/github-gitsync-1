@@ -137,10 +137,10 @@
   },
   "8a01bf40-6fe8-414b-9d74-22a2c3af4a82": {
     "gitAppName": "Parent app A",
-    "lastCommitMessage": "v2 git sync",
-    "gitVersionId": "543df057-93bd-4f5a-9174-258aeadb9f48",
-    "lastpushDate": "2025-05-20T11:50:10.386Z",
-    "gitVersionName": "v2",
+    "lastCommitMessage": "Version v2.1 Created of app Parent app A",
+    "gitVersionId": "e6c898dc-2a31-419b-be5c-0d2303874ff2",
+    "lastpushDate": "2025-05-20T11:50:48.109Z",
+    "gitVersionName": "v2.1",
     "lastCommitUser": "lts-dev "
   }
 }
